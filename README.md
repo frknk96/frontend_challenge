@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-### 'npm start'
-Projenin çalışması için proje dizinide 'npm start' komutunu çalıştırarak gerekli dependency leri node_modules adlı klasöre indirebilirsiniz.
+### 'npm install'
+
+Projenin çalışması için gerekli olan dependency leri proje klasörüne gelerek 'npm install' komutu ile indirenilirsiniz.
+
 ## Available Scripts
 
 In the project directory, you can run:
